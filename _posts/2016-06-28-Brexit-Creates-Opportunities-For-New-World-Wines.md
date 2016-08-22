@@ -1,11 +1,11 @@
 ---
 layout: post 
-title:  "Brexit Creates Opportunities For New World Wines"
+title:  "‘Brexit’ Crea Oportunidades Para Los Vinos Argentinos"
 date:   2016-06-28
 tags: [UK]
 <!-- img: images/francis33.jpg -->
 img: images/UK_EU_Flags_Brexit_2.jpg
-excerpt: "The breakup between the UK and the EU has created a state of disturbance and uncertainty around the world. While this situation harms the trade in a short term, exporting countries outside the EU could take advantage of the crisis." 
+excerpt: "La separación del Reino Unido de la Unión Europea ha generado un tumulto económico global y dudas en nuestro país. Mientras esta situación afecta a corto plazo las exportaciones, Argentina podría aprovechar esta crisis para crecer en un mediano y largo plazo." 
 minread: 6
 lang: en
 ---
@@ -15,9 +15,9 @@ After the unexpected results of last week’s British referendum, the business m
 ![alt text](images/Brexit_results_eng_4.jpg "Francis Mallmann") 
 </span>
 
-Just three days after Brexit, there is only uncertainty in the air and nobody knows with certitude the effects that this situation will bring. In occasions like this, experts use speculations and possible scenarios to try to anticipate future consequences, so my thesis for this article is based on the hypothetical case that the British economy won’t go into a recession, maintaining their GDP without major changes, and that the import tariffs negotiated with the European Union would be similar to the ones from other exporting countries.
+Después del inesperado resultado del referéndum en el Reino Unido, la gran mayoría de los medios de comunicación se refieren a esta situación como un desastre comercial para el Reino Unido, Europa, y para los mercados globales en general.
 
-The word ‘crisis’ in Chinese is composed of two characters — 危机 — one means danger and the other opportunity. While negative circumstances usually dazzle business people, there are opportunities in every economic crisis, with winners and losers. We can agree that the ones who lose the most in this situation are the UK and the EU, along all the foreign markets that have strong commercial relationships with the UK. These circumstances create economic uncertainty, which in turn, creates an economic slowdown that affects everyone in a short term.
+Estoy de acuerdo con varios de los motivos que influenciaron a mucha gente a votar por el ‘Si’, como los actos terroristas que se han convertido en hechos demasiado frecuentes y una inmigración a gran escala que crea culturas separadas en un mismo territorio. Pero estas situaciones no son únicas al Reino Unido, son situaciones compartidas por la mayoría del resto de los países de la Unión.
 
 ### Opportunities for some countries
 
