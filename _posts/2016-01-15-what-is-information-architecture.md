@@ -7,11 +7,12 @@ tags: [information architecture]
 excerpt: "Information Architecture has a fancy name and to many is a new and growing task in big organizations which work with a gazillion pieces of content like Google, Facebook, or Amazon.
 But in reality the architecture of information is as old as information itself. It has always been part along with questions like “how we structure this set of data so is easily found by others?”."
 minread: 5
+author: Por Gaspar Lobato Grinberg
 ---
 
 # Finding is the new doing
 
-Information Architecture has a fancy name and to many is a new and growing task in big organizations which work with a gazillion pieces of content like Google, Facebook, or Amazon.
+<span class="dropcap">I</span>nformation Architecture has a fancy name and to many is a new and growing task in big organizations which work with a gazillion pieces of content like Google, Facebook, or Amazon.
 But in reality the architecture of information is as old as information itself. It has always been part along with questions like “How do we structure this set of data so is easily found by others?”.
 
 The index of a book is information architecture. Organizing books in a library by alphabetical order or by subject is information architecture. Imagine if 500 years ago the europeans that first arrived in the American continent, instead of making maps and using cartography, they had written directions and locations only using written words. It would have been terribly difficult if not impossible for others to arrive to the Americas. This example shows that Maps are another example of information architecture, which is structuring information so a person (or computer) can easily find what they are looking for.

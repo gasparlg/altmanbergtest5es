@@ -6,9 +6,10 @@ tags: [research]
 <!-- img: images/francis33.jpg -->
 img: images/vineyard_goodC2_2.jpg
 minread: 3
+author: Por Gaspar Lobato Grinberg
 ---
 
-Design Thinking is a term that is often heard in academics environments, but its also what its behind products like the iPod and iPad. It is an iterative process for creating new and relevant solutions or new opportunities through a human-driven analysis. 
+<span class="dropcap">D</span>esign Thinking is a term that is often heard in academics environments, but its also what its behind products like the iPod and iPad. It is an iterative process for creating new and relevant solutions or new opportunities through a human-driven analysis. 
 
 Authors Christoph Meinel and Larry Leifer explain that there are 4 principles to design thinking:
 

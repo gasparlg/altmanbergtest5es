@@ -2347,7 +2347,7 @@ margin: 0 0 .6em 0;
 			top: 0.25em;
 		}
 
-		.image.fit {
+		.image.fit { 
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
@@ -2359,7 +2359,7 @@ margin: 0 0 .6em 0;
 
 		.image.main {
 			display: block;
-			margin: 2.5em 0;
+			margin: 1em 0 2.5em 0;
 			width: 100%;
 		}
 
@@ -3260,6 +3260,10 @@ margin: 0 0 .6em 0;
 			padding: 0 1.5em;
 		}
 
+        #header #lang {
+			letter-spacing: 0.1em;
+		}
+
 			#header .logo strong {
 				-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
@@ -3756,7 +3760,7 @@ margin: 0 0 .6em 0;
 			}
 
 			#main > * > .inner {
-				padding: 2.5em 0 2.5em 0 ;
+				padding: 1.5em 0 2.5em 0 ;
 				margin: 0 auto;
 				max-width: 65em;
 				width: calc(100% - 6em);
@@ -5356,4 +5360,11 @@ footer .tagspage {
 }
 
 
+
+
+/* Drop cap */
+
+.dropcap {
+    float: left; font-size: 1.9em; line-height: 16.5px; padding-top: 2px; padding-right: 0px; padding-left: 0px;
+}
 

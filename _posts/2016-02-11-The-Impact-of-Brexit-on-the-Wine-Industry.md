@@ -8,12 +8,13 @@ excerpt: "In the case of Brexit being victorious tomorrow, the economic status q
 img: images/UK_EU_Flags_2.jpg
 minread: 5
 lang: en
+author: Por Gaspar Lobato Grinberg
 ---
 
 
 ### Opportunities and disadvantages
 
-In the case of Brexit being victorious tomorrow, the economic status quo that the UK has maintained for quite some time will change, and along changes there are misfortunes and opportunities. Apart from describing the current pre-referendum situation, I will analyze who the winners and losers would be in the case of a breakup.
+<span class="dropcap">I</span>n the case of Brexit being victorious tomorrow, the economic status quo that the UK has maintained for quite some time will change, and along changes there are misfortunes and opportunities. Apart from describing the current pre-referendum situation, I will analyze who the winners and losers would be in the case of a breakup.
 
 Currently, the wine and spirits industry in the UK represents almost 600.000 jobs and is cashing in £45bn annually. From those earnings, £1.8bn derive from exports to countries of the European Union. While based on the 2016 ‘Wine and Spirit Trade Association’ (WSTA) Annual Wine Report, EU imports of still wine represent 68% of all on-trade imports and 37% of all off-trade imports.
 

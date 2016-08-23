@@ -1,4 +1,4 @@
----
+--- 
 layout: post 
 title:  "Historia de la Industria Vitivinícola Argentina y su Comercio Exterior"
 date:   2016-07-17
@@ -8,9 +8,10 @@ excerpt: "Ante una fecha tan especial como el Bicentenario de la declaración de
 img: images/Publicidad-2-Vino-Panquegua.jpg 
 minread: 5
 lang: es
+author: Por Gaspar Lobato Grinberg
 ---
 
-La historia de la Vitivinicultura Argentina se remonta a más de 400 años, cuando los primeros especímenes de ‘vitis vinifera’ fueron traídos a Peru, Chile y Argentina por los colonizadores españoles. Una vez en el territorio argentino, las primeras cepas se cultivaron en Santiago del Estero donde se realizaron los primeros vinos nacionales. Sin embargo, las óptimas condiciones climáticas y de suelo de la región andina, hizo que la vitivinicultura tenga un amplio y acelerado desarrollo en el centro-oeste del país, la región de Cuyo.
+<span class="dropcap">L</span>a historia de la Vitivinicultura Argentina se remonta a más de 400 años, cuando los primeros especímenes de ‘vitis vinifera’ fueron traídos a Peru, Chile y Argentina por los colonizadores españoles. Una vez en el territorio argentino, las primeras cepas se cultivaron en Santiago del Estero donde se realizaron los primeros vinos nacionales. Sin embargo, las óptimas condiciones climáticas y de suelo de la región andina, hizo que la vitivinicultura tenga un amplio y acelerado desarrollo en el centro-oeste del país, la región de Cuyo.
 
 Decades later, in the XVII century, the provinces of Cuyo, especially Mendoza and San Juan, had already an important wine production, and became suppliers to new markets such as the regions of Buenos Aires, Paraguay and northern Argentina.
 

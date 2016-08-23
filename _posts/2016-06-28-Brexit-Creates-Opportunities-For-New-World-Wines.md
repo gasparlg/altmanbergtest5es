@@ -8,8 +8,9 @@ img: images/UK_EU_Flags_Brexit_2.jpg
 excerpt: "La separación del Reino Unido de la Unión Europea ha generado un tumulto económico global y dudas en nuestro país. Mientras esta situación afecta a corto plazo las exportaciones, Argentina podría aprovechar esta crisis para crecer en un mediano y largo plazo." 
 minread: 6
 lang: en
+author: Por Gaspar Lobato Grinberg
 ---
-After the unexpected results of last week’s British referendum, the business media has categorized this situation as a commercial crisis for the United Kingdom and the European Union, as well as for the global markets.
+<span class="dropcap">A</span>fter the unexpected results of last week’s British referendum, the business media has categorized this situation as a commercial crisis for the United Kingdom and the European Union, as well as for the global markets.
 
 <span class="imgleft"> 
 ![alt text](images/Brexit_results_eng_4.jpg "Francis Mallmann") 

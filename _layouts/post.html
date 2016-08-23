@@ -1,4 +1,4 @@
---- 
+---  
 layout: default-post
 page-type: post
 ---
@@ -6,8 +6,10 @@ page-type: post
     
     <!-- Header -->
             <header id="header">
-                <a href="{{site.baseurl}}index" class="logo"><span>Altman &amp; Berg</span></a>
+                <a href="{{site.baseurl}}index" class="logo"><span>Altman <span id="amp">&amp;</span> Berg</span></a>
                 <nav>
+                    <a href="http://frontmesh.com" class="logo" id="lang">English</a>
+                    <a href="http://es.frontmesh.com" class="logo" id="lang">Español</a>
                     <a href="#menu">&nbsp;Menu</a>
                 </nav>
             </header>
@@ -35,6 +37,7 @@ page-type: post
                         <h1>{{page.title}}</h1>
                         <time itemprop="dateCreated" datetime="{{page.date}}">
                             {{ page.date | date: "%B %-d, %Y" }}</time>
+                        <p>{{page.author}}</p>
                     </header>
                 </div>
                 {% if page.img %}
