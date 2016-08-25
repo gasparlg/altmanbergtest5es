@@ -3350,7 +3350,7 @@ margin: 0 0 .6em 0;
 						-ms-transition: opacity 0.2s ease-in-out;
 						transition: opacity 0.2s ease-in-out;
                         /* Change this Ugly Color */
-						background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='32' viewBox='0 0 24 32' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 2px%3B stroke: %23287CC9%3B %7D%3C/style%3E%3Cline x1='0' y1='11' x2='24' y2='11' /%3E%3Cline x1='0' y1='21' x2='24' y2='21' /%3E%3Cline x1='0' y1='16' x2='24' y2='16' /%3E%3C/svg%3E");
+						background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='32' viewBox='0 0 24 32' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 2px%3B stroke: %238F8988%3B %7D%3C/style%3E%3Cline x1='0' y1='11' x2='24' y2='11' /%3E%3Cline x1='0' y1='21' x2='24' y2='21' /%3E%3Cline x1='0' y1='16' x2='24' y2='16' /%3E%3C/svg%3E");
                         
 						opacity: 0;
 						z-index: 1;
@@ -3628,7 +3628,7 @@ margin: 0 0 .6em 0;
 					text-transform: uppercase;
 				}
 
-/* Here you set the height of th banner*/
+/* Here you set the height of th banner */
 
 		#banner.major {
             /* height: 75vh; */
@@ -5376,3 +5376,15 @@ footer .tagspage {
     float: left; font-size: 1.9em; line-height: 16.5px; padding-top: 2px; padding-right: 0px; padding-left: 0px;
 }
 
+
+
+
+
+/* Here you set the height of the banner page of the thanks page */
+
+		#banner.ma {
+            /* height: 75vh; */
+			height: 40vh;
+			min-height: 10em;
+			max-height: 30em;
+		}
