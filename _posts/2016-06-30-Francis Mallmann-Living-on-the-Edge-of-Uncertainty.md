@@ -7,7 +7,7 @@ img: images/francis33333.jpg
 minread: 4
 lang: es
 excerpt: "Hace más de 40 años que Francis Mallmann, chef de renombre internacional, abría su primer restaurante en Bariloche. Hoy es reconocido por muchos de sus colegas como el mejor chef argentino, y entre los mejores chefs del mundo." 
-author: Por Gaspar Lobato Grinberg
+author: Gaspar Lobato Grinberg
 ---
 
 <span class="dropcap">F</span>rancisco Jose Mallmann, hijo del físico nuclear Carlos Mallmann, nació en Buenos Aires y creció en la Villa Llao Llao, en las cercanías de Bariloche, donde su padre se desempeñó como director del Instituto Balseiro. A los 16 años y al no estar interesado en ir la escuela, decidió irse de su casa y viajar a California motivado por los movimientos juveniles hippies de la época, donde vivió 2 años mientras trabajó como carpintero y jardinero.

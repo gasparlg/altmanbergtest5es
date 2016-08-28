@@ -5,7 +5,7 @@ date:   2016-02-05
 tags: [communication]
 img: images/vineyard_goodC2_2.jpg
 minread: 4
-author: Por Gaspar Lobato Grinberg
+author: Gaspar Lobato Grinberg
 ---
 
 <span class="dropcap">I</span>n Jack and the beanstalk Jack and his mom own a cow, it was a nice cow but it was all they had, when Jack was out to sell their cow, instead of selling it for gold, he sells it for a handful of beans, beans that were supposed to be magical. For me that's where the story ends. Yes, eventually Jack grows the beanstalk and robs the giant, gives all the stolen gold to his mom and then he kills the giant with the help of his ax. But all that stuff is irrelevant. The point is that he didn't trade the cow for money or a sure thing, he traded the cow for a chance at something great. He trade it for opportunity.

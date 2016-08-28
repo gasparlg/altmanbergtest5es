@@ -8,7 +8,7 @@ excerpt: "Ante una fecha tan especial como el Bicentenario de la declaración de
 img: images/Publicidad-2-Vino-Panquegua.jpg 
 minread: 5
 lang: es
-author: Por Gaspar Lobato Grinberg
+author: Gaspar Lobato Grinberg
 comments: true
 ---
 

@@ -8,7 +8,7 @@ excerpt: "In the case of Brexit being victorious tomorrow, the economic status q
 img: images/UK_EU_Flags_2.jpg
 minread: 5
 lang: en
-author: Por Gaspar Lobato Grinberg
+author: Gaspar Lobato Grinberg
 ---
 
 

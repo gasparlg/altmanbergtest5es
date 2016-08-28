@@ -7,7 +7,7 @@ excerpt: "Argentine wine has grown more than any other country in the last 3 yea
 <!-- img: images/francis33.jpg -->
 img: images/london_arn_1_2.jpg 
 minread: 6
-author: Por Gaspar Lobato Grinberg
+author: Gaspar Lobato Grinberg
 ---
 
 <span class="dropcap">L</span>ast week I had the privilege of being the only journalist from Argentina in the London Wine Fair which is the biggest and most important meeting for the industry in the UK. This year the fair received more than 10.000 people who met 700 exhibitors and more than 10.000 different wines from most of the wine producing countries in the world. Exhibitors include importers and distributors, wineries, country stands (such as Wines of Argentina) and service firms.
