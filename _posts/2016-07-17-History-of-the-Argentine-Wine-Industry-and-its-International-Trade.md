@@ -9,7 +9,6 @@ img: images/Publicidad-2-Vino-Panquegua.jpg
 minread: 5
 lang: es
 author: Gaspar Lobato Grinberg
-comments: true
 ---
 
 <span class="dropcap">L</span>a historia de la Vitivinicultura Argentina se remonta a más de 400 años, cuando los primeros especímenes de ‘vitis vinifera’ fueron traídos a Peru, Chile y Argentina por los colonizadores españoles. Una vez en el territorio argentino, las primeras cepas se cultivaron en Santiago del Estero donde se realizaron los primeros vinos nacionales. Sin embargo, las óptimas condiciones climáticas y de suelo de la región andina, hizo que la vitivinicultura tenga un amplio y acelerado desarrollo en el centro-oeste del país, la región de Cuyo.
@@ -72,4 +71,6 @@ The objectives of the industry for the year 2020 are to increase the export reve
 
 *I focus on the international business side of the wine industry. I spend my time meeting stakeholders from all the different areas of the trade and I write for publications like ARN Diario and Altman & Berg*
 
-
+<h3>Comparte este Artículo:</h3>
+<div class="addthis_inline_share_toolbox"></div>
+<br>

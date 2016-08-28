@@ -21,3 +21,7 @@ Creativity and business are as mixed as they can be. Great businesses didn't sta
 Storytelling is a desired skill, yet not required, in education, in a job interview, in sales, in a executive position, etc. But the fact that is not required might confuse people in believing that they can be successful without it. But there are no successful professionals without good communication skills. And thats where storytelling comes in play, because storytelling is a potent persuasive tool that has the ability to shape beliefs and change minds.
 
 So, if you are applying to university, looking for a new job, or simply trying to have better results doing what you do, try improving your storytelling skills. And every time you have to mention facts try communicating them in a more narrative way.
+
+<h3>Comparte este Artículo:</h3>
+<div class="addthis_inline_share_toolbox"></div>
+<br>
