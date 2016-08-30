@@ -5422,9 +5422,27 @@ footer .tagspage {
 }
 
 #two img {
+    /*
     height: 290px;
     width: 290px;
     position: absolute;
     bottom: 0;
     right: 0px;
+    */
+    
+    height: 41.5vh;
+    height: 19em;
+    width:;
+    position: absolute;
+    bottom: 0;
+    right: 0px;
+    display: block;
+}
+
+/* ?? */
+
+@media screen and (max-width: 630px) {
+    #two img {
+        height: 10em;
+    }
 }
