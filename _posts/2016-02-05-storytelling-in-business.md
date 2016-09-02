@@ -22,6 +22,8 @@ Storytelling is a desired skill, yet not required, in education, in a job interv
 
 So, if you are applying to university, looking for a new job, or simply trying to have better results doing what you do, try improving your storytelling skills. And every time you have to mention facts try communicating them in a more narrative way.
 
+<div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
+
 <h3>Comparte este Artículo:</h3>
 <div class="addthis_inline_share_toolbox"></div>
 <br>

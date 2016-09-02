@@ -36,6 +36,8 @@ About his preferences of wine he has expressed a liking towards old elegant thin
 
 Today Francis Mallmann owns four restaurants in Argentina, Uruguay and United States and will soon publish his third book ‘Fires of Patagonia’.
 
+<div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
+
 ### Gaspar Lobato Grinberg
 
 <span class="imgpp"> 

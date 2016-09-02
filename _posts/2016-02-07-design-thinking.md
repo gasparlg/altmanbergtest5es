@@ -46,6 +46,8 @@ Prototypes are often bypassed but they are as important as the ideas themselves.
 
 This is the stage where the solutions and the users come together, and all feedback is gathered.  Prototype as if you know you’re right, and test as if you know you’re wrong. Testing is the chance to refine the solutions and improve them. After the this stage iterate the whole process to come up with new findings.
 
+<div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
+
 <h3>Comparte este Artículo:</h3>
 <div class="addthis_inline_share_toolbox"></div>
 <br>

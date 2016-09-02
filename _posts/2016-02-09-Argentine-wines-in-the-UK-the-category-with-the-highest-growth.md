@@ -38,6 +38,8 @@ Laurie Webster, CEO of ‘Las Bodegas’, explains what they look for in a winer
 
 Argentine wines are on the rise in the United Kingdom and the future prospects are as positive. It is important that all parties of the industry work towards the same objectives and take advantage of this growth to establish Argentine wine in the minds of British consumers.
 
+<div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
+
 ### Gaspar Lobato Grinberg
 
 <span class="imgpp"> 

@@ -1,10 +1,12 @@
-<!DOCTYPE HTML> 
+<!DOCTYPE HTML>  
 <html> 
 	<head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<title>{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}</title>
         <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+        <meta property="og:description" content="{{ page.excerpt }}" />
+        <meta property="og:image" content="{{ page.img }}" />
         <link rel="canonical" href="{{site.baseurl}}{{page.url}}">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="{{site.baseurl}}css/main.css" />
@@ -35,16 +37,12 @@
                         via: "gasparlberg"
                     }
                 },
-                
                 url_transforms : {
                     shorten : {
                         twitter : 'bitly'
                     }
-                }
-                
+                }    
             }
             </script>
 	</body>
 </html>
-
-<!-- #242943  -->

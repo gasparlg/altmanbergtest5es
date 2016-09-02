@@ -36,6 +36,8 @@ Currently, EU wineries, having a 99.9% share of the British market, are in a ris
 
 For these wineries it would be necessary to follow closely the negotiations between the United Kingdom and the European Union, and plan for an enlarged market share with more economically competitive wines. Also, it would be fundamental to pay close attention to the condition of the British economy, and maintain contact with importers, distributors, and retailers to be among the first ones to dispute for bigger sales in a competitive global market that continues in constant change.
 
+<div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
+
 ### Gaspar Lobato Grinberg
 
 <span class="imgpp"> 

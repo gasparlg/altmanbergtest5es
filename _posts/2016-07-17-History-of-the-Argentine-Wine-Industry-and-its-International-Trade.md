@@ -63,6 +63,8 @@ At the time of the Spanish colonization, the Argentine economic model was based 
 
 The objectives of the industry for the year 2020 are to increase the export revenues to 2000 million USD per year and to increase the international wine market share to 10%. This objectives could be achieved by integrating small and medium players in the industry, positioning high quality Argentine wines in the global markets, and increasing the consumption in the national market against other competitive drinks.
 
+<div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
+
 ### Gaspar Lobato Grinberg
 
 <span class="imgpp"> 

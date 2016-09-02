@@ -33,7 +33,7 @@ Information Architecture plays a major role on the delivering of content. If inf
 
 Every service and product provided is based on information, and as every second there is more and more information created, finding the correct piece of content is becoming a harder task. The organizations that understand this the better are the ones that are going to adapt to the multi-connected and ultra-informed world that we are living in today.
 
-
+<div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
 
 Gaspar Lobato Grinberg
 

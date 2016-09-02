@@ -62,6 +62,8 @@ Major industry companies like Diageo, Pernod Ricard, and SABMiller signed a lett
 
 While some effects of the Brexit can be predicted in advance, the final impacts on the global wine industry can fluctuate and it would take at least a few years to clearly recognize the new economic situation for the different parties of the industry.
 
+<div class="divider">.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.</div>
+
 ### Gaspar Lobato Grinberg
 
 <span class="imgpp"> 
