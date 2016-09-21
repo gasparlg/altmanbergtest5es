@@ -7,10 +7,10 @@
 
 # Site settings
 title: altmanbergtest5es
-description: "This blog focuses on the research aspects of tech industries by sharing informative articles and interviews with industry leaders."
+description: "Test"
 baseurl: "/"
 url: "http://gasparlg.github.io/altmanbergtest5es"
-tagline: "Análisis Comercial del Vino"
+tagline: "Test"
 
 
 # Build settings
